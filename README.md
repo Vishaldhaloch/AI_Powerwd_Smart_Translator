@@ -20,15 +20,6 @@ An advanced **Streamlit-based multilingual translation tool** that supports **12
 - 💾 **Export & Download Translations**
 
 
-### Normal Translation Mode
-![Normal Translation](screenshots/normal-translation.png)
-
-### Contextual Translation Mode
-![Contextual Translation](screenshots/contextual-translation.png)
-
-### Real-Time Streaming Output
-![Streaming Output](screenshots/streaming-output.png)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
